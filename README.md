@@ -1,5 +1,3 @@
 # Image-Classification
 
-Created an algorithm that can successfully classify images based on image content into a fixed number of categories. 
-
-Accompanied by a Jupyter notebook (Code Along) that will provide steps for the reader to construct their own classifier. 
+Created a Jupyter notebook (CNN - Master Copy) which introduces the theory behind the working of a Convolutional Neural Network (CNN) to builda users understanding of neural networks and deep learning. Also contains the step by step code to build a CNN model that can successfully classify images based on image content into a fixed number of categories.
